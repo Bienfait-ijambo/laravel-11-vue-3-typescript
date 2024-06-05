@@ -18,15 +18,12 @@
 
 7. Run `php artisan queue:work` for background process
 
-6. Run `php artisan serve` 
+8. Run `php artisan reverb:start` reverb server
 
-7. Run `php artisan reverb:start` reverb server
-
-8. Run `npm run start` 
+9. Run `npm run dev` 
 
 
 ## You may also like :
-
 
 
 [Watch the YouTube Video](https://www.youtube.com/watch?v=mimRnvHpsg0&t=1s)
