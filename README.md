@@ -30,5 +30,5 @@
 
 
 [Watch the YouTube Video](https://www.youtube.com/watch?v=mimRnvHpsg0&t=1s)
-## Build a realtime Task Manager app
+### Build a realtime Task Manager app
 ![My Image](public/realtime-app.jpg)
