@@ -3,14 +3,12 @@ import {ref,onMounted} from "vue"
 
 const count=ref<number>(0);
 
-
 function setupEvent(){
         window.Echo.channel('testChannel')
         .listen('testingEvent', (e:any) => {
           console.log(e)
           // hello world in console 
         })
-      
   }
   
 onMounted(()=>{
