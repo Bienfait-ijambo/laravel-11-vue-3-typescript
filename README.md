@@ -10,7 +10,7 @@
 
 3. Run `composer install` command
 
-4. Setup database  
+4. run `npm install`
 
 5. Run `php artisan migrate` 
 
