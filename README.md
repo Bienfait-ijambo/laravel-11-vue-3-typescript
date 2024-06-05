@@ -30,5 +30,5 @@ You may also like :
 
 
 [Watch the YouTube Video](https://www.youtube.com/watch?v=mimRnvHpsg0&t=1s)
-## Image Example
+## Build a realtime Task Manager app
 ![My Image](public/realtime-app.jpg)
